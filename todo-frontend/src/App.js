@@ -1,18 +1,4 @@
-// // src/App.js
-// import React, { useState, useEffect } from 'react';
-// import axios from 'axios';
 
-// const App = () => {
-//     const [todos, setTodos] = useState([]);
-//     const [newTodo, setNewTodo] = useState('');
-//     const [editingTodo, setEditingTodo] = useState(null);
-
-//     // Fetch TODOs from the server
-//     useEffect(() => {
-//         axios.get('http://localhost:5000/')
-//             .then(response => setTodos(response.data))
-//             .catch(error => console.error('Error fetching todos:', error));
-//     }, []);
 
 
 import React, { useState, useEffect } from 'react';
