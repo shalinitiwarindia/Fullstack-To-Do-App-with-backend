@@ -84,6 +84,7 @@ The frontend will run at **http://localhost:3000/**.
 
 ![image](https://github.com/user-attachments/assets/3a3e8e61-588a-4db9-89a6-d967e50c411e)
 ![image](https://github.com/user-attachments/assets/ae0cff6e-96ce-46cb-b1c6-19819586958e)
+![image](https://github.com/user-attachments/assets/1a96edf9-776a-4f08-8dd6-155e8c7a9b2f)
 
 ---
 
